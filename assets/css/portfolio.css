@@ -1,0 +1,30 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+}
+
+.portfolio li {
+    display: block;
+    padding: .5rem;
+}
+
+.portfolio a {
+    display: block;
+    margin-top: .2rem;
+    text-decoration: none;
+    color: #fff;
+    word-break: break-word; 
+}
+
+.portfolio .title {
+    font-weight: 700;
+}
+
+.portfolio span img {
+    margin: 0 .5rem;
+}

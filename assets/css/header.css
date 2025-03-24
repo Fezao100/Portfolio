@@ -1,0 +1,70 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.header .title {
+    font-family: 'Neue Machina';
+    text-align: center;
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    font-size: small;
+}
+
+.infos p {
+    margin: .2rem;
+}
+
+.infos p img {
+    margin: 0 .5rem;
+}
+
+.icon {
+    width: 13px;
+}
+
+a.links {
+    text-decoration: none;
+    color: inherit;
+}
+
+a.links:hover {
+    text-decoration: underline;
+    color: rgb(198, 198, 198);
+}
+
+@media only screen and (min-width: 768px) {
+    .header {
+        display: grid;
+        grid-template-areas: 
+        "photo title"
+        "photo infos";
+    }
+
+    .header .photo{
+        grid-area: photo;
+        margin: 0 auto;
+    }
+
+    .header .title{
+        grid-area: title;
+        text-align: start;
+    }
+
+    .header .infos{
+        grid-area: infos;
+    }
+  }

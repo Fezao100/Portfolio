@@ -1,0 +1,28 @@
+.experiences {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0%;
+    list-style: none;
+}
+
+.experiences .icon{
+    margin-right: .5rem;
+}
+
+.experiences .title {
+    font-weight: 700;
+}
+
+.experiences .data {
+    font-size: 12px;
+    margin-top: .5rem;
+}
+
+.experiences .description {
+    text-align: justify;
+    font-size: 13px;
+    margin-bottom: 1.5rem;
+}

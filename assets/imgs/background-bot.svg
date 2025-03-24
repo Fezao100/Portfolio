@@ -1,0 +1,19 @@
+<svg width="1999" height="1971" viewBox="0 0 1999 1971" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_33002_21)">
+<rect opacity="0.67" width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 671.827 -914.895)" fill="#E509AD"/>
+<rect opacity="0.67" width="235.957" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 475.156 -784.524)" fill="#D40AA4"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 278.486 -654.153)" fill="#BC27B7"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 81.8154 -523.782)" fill="#B796EA"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 -114.855 -393.411)" fill="#8CBEF4"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 -311.525 -263.041)" fill="#22CCEF"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 -508.195 -132.669)" fill="#0AD2E9"/>
+<rect width="235.958" height="1328.39" transform="matrix(-0.833501 0.552519 0.547264 0.83696 -704.868 -2.29834)" fill="#667BCA"/>
+</g>
+<defs>
+<filter id="filter0_f_33002_21" x="-1698.21" y="-1514.9" width="3697.02" height="3485.15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="300" result="effect1_foregroundBlur_33002_21"/>
+</filter>
+</defs>
+</svg>
