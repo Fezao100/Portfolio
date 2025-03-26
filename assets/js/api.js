@@ -1,7 +1,5 @@
-
-async function fetchProfileData() {
-    const url =  'https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/data/profile.json'
-    const fetch = await fetch(url)
+export async function fetchProfileData() {
+    const response = await fetch('data/profile.json');
     
-    return await fetching.json()
+    return await response.json();
 }

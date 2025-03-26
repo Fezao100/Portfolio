@@ -8,20 +8,21 @@
     list-style: none;
 }
 
-.experiences .icon{
+.experiences p:first-of-type img {
     margin-right: .5rem;
+    width: 13px;
 }
 
-.experiences .title {
+.experiences span {
     font-weight: 700;
 }
 
-.experiences .data {
+.experiences p:first-of-type {
     font-size: 12px;
     margin-top: .5rem;
 }
 
-.experiences .description {
+.experiences p:last-of-type {
     text-align: justify;
     font-size: 13px;
     margin-bottom: 1.5rem;

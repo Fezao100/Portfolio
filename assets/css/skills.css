@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.proSkills_list {
+.hardSkills ul {
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -14,7 +14,12 @@
     margin: 0;
 }
 
-.persoSkills ul {
+.hardSkills ul li img {
+    width: 50px;
+    margin: 0 0.8rem;
+}
+
+.softSkills ul {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -24,14 +29,9 @@
     margin: 0;
 }
 
-.persoSkills ul li{
+.softSkills ul li{
     margin-left: 2rem;
     padding: .5rem;
-}
-
-.skillIcon {
-    width: 50px;
-    margin: 0 0.8rem;
 }
 
 @media only screen and (min-width: 768px) {

@@ -21,10 +21,11 @@
     word-break: break-word; 
 }
 
-.portfolio .title {
+.portfolio span {
     font-weight: 700;
 }
 
 .portfolio span img {
     margin: 0 .5rem;
+    width: 13px;
 }
