@@ -50,17 +50,17 @@
     {
       "name": "Projeto Pokédex",
       "url": "https://github.com/Fezao100/Pokedex_PokeAPI",
-      "gitIcon": "/assets/imgs/icons/github.png"
+      "gitIcon": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/github.png"
     },
     {
       "name": "Solucionador de Transformadas Rápidas de Fourier",
       "url": "https://github.com/Fezao100/FFT_Solver",
-      "gitIcon": "/assets/imgs/icons/github.png"
+      "gitIcon": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/github.png"
     },
     {
       "name": "ChatBot para Calouros de Controle e Automação da Unesp de Sorocaba",
       "url": "https://github.com/Fezao100/ChatBot_AlunosECA",
-      "gitIcon": "/assets/imgs/icons/github.png"
+      "gitIcon": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/github.png"
     }
   ],
   "professionalExperience": [
@@ -78,7 +78,7 @@
     },
     {
       "name": "Assessor de Marketing - Enactus Unesp Sorocaba",
-      "calendar": "/Portfoliohttps://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "period": "Período: 09/2020 até 06/2021",
       "description": "Fui responsável pela confecção de artes e vídeos para as redes sociais da instituição; participação no desenvolvimento da identidade visual do time. No setor, tive a oportunidade de realizar treinamentos com o site Canva e o software Photoshop, adquirindo conhecimentos em design gráfico e edição de imagens, que foram aplicados na criação de materiais promocionais e campanhas de marketing visualmente atrativas, contribuindo para o fortalecimento da instituição nas redes sociais."
     }
