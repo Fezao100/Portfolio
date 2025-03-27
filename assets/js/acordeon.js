@@ -1,15 +1,7 @@
-const acordeonTrigger = document.querySelectorAll('.acordeon .trigger')
 
-acordeonTrigger.forEach((trigger) => {
-
-    trigger.addEventListener('click', (e) => {
-        const acordeon = trigger.parentElement
-        const isOpen = acordeon.classList.contains('open')
-
-        if (isOpen) {
-            acordeon.classList.remove('open')
-        } else {
-            acordeon.classList.add('open')
-        }
-    })
-})
+document.querySelectorAll('.acordeon .trigger').forEach((trigger) => {
+        trigger.addEventListener('click', () => {
+            const acordeon = trigger.parentElement; // Pega o elemento pai (.acordeon)
+            acordeon.classList.toggle('open'); // Alterna a classe 'open'
+        });
+    });
