@@ -66,19 +66,19 @@
   "professionalExperience": [
     {
       "name": "Diretor de Projetos - Enactus Unesp Sorocaba",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "period": "Período: 07/2021 até 07/2023",
       "description": "Como Diretor de Projetos, fui responsável por liderar o planejamento e execução de iniciativas voltadas para atender as necessidades específicas das comunidades com as quais trabalhávamos. Coordenei a criação e a estruturação de dois novos projetos e implementei o cronograma semanal de planejamento para as atividades. Além disso, liderei reuniões regulares para alinhamento e verificação do progresso e fui responsável pela elaboração de documentos de validação e avaliação dos projetos, que foram submetidos para assegurar a conformidade e o impacto das nossas ações. No projeto Juvenitas, participei de análises e reuniões estratégicas com a Fundação Casa e escolas parceiras, contribuindo para o planejamento e acompanhamento das metas estabelecidas. As iniciativas foram implementadas com o objetivo de trabalhar questões de empregabilidade e empreendedorismo com os jovens de acordo com suas respectivas realidades. O projeto foi selecionado em dois editais, sendo reconhecido e premiado como um dos projetos de destaque no edital Future Makers da Standard Chartered. O projeto SóRecicla visava melhorar a renda dos cooperados por meio da expansão da coleta de materiais recicláveis em Sorocaba. Durante o projeto, 100% das rotas de coleta da cooperativa foram otimizadas. Além disso, realizamos campanhas em apoio aos refugiados da cooperativa, com doações de luvas de proteção e cestas básicas, contribuindo para o bem-estar e a segurança dos cooperados. O projeto foi selecionado em dois editais da Enactus e foi selecionado entre os 16 melhores projetos do Brasil durante o ENEB. O projeto Renascer, em parceria com o Grupo de Apoio Santo Antônio em Sorocaba, visava a reativação da horta da unidade masculina para comercializar a produção e gerar lucro para a instituição. Realizamos ações para entender as necessidades da comunidade e estávamos estabelecendo parcerias para apoiar o desenvolvimento da horta."
     },
     {
       "name": "Professor de Geografia - Cursinho GeraBixo",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "period": "Período: 07/2021 até 06/2023",
       "description": "O GeraBixo é um cursinho pré-vestibular popular, que atua desde 2006 na democratização do acesso ao ensino superior a partir do trabalho de voluntários. Atuei como professor de Geografia e membro da Comissão de Alunos. Minhas responsabilidades incluíam auxiliar no processo de inscrição dos estudantes e supervisionar o controle de presença. Como professor, fui responsável por desenvolver o conteúdo programático e ministrar aulas de forma clara e envolvente, visando facilitar o entendimento dos alunos e promover um ambiente de aprendizado acessível e estimulante."
     },
     {
       "name": "Assessor de Marketing - Enactus Unesp Sorocaba",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "/Portfoliohttps://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "period": "Período: 09/2020 até 06/2021",
       "description": "Fui responsável pela confecção de artes e vídeos para as redes sociais da instituição; participação no desenvolvimento da identidade visual do time. No setor, tive a oportunidade de realizar treinamentos com o site Canva e o software Photoshop, adquirindo conhecimentos em design gráfico e edição de imagens, que foram aplicados na criação de materiais promocionais e campanhas de marketing visualmente atrativas, contribuindo para o fortalecimento da instituição nas redes sociais."
     }
@@ -86,37 +86,37 @@
   "courses": [
     {
       "name": "Formação JavaScript Developer - DIO",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2025",
       "description": "Desenvolvimento de habilidades práticas e teóricas no uso de JavaScript, abrangendo desde conceitos fundamentais até técnicas avançadas. O curso abordou tópicos como variáveis, escopo e tipos de dados, orientação a protótipos, manipulação de listas e funções, além de programação assíncrona com Promises e async/await. Exploração de métodos essenciais para processamento de arrays, como map(), filter() e reduce(), e consumo de APIs utilizando fetch para requisições assíncronas. Além da parte teórica, o curso incluiu a implementação de projetos práticos, como uma Pokédex interativa, que consome dados de uma API externa, e um currículo online desenvolvido com HTML, CSS e JavaScript."
     },
     {
       "name": "Introdução a Banco de Dados Relacionais (SQL) - DIO",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2024",
       "description": "Habilidades práticas na construção e alteração de bancos de dados e na execução de consultas avançadas utilizando comandos SQL. Além de conhecimento nos conceitos fundamentais de Bancos de Dados Relacionais e no Modelamento de Dados (MER e DER)."
     },
     {
       "name": "Formação Lógica de Programação - DIO",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2024",
       "description": "Conhecimentos básicos de programação, incluindo variáveis, operadores, estruturas de controle (condicionais e repetição), funções e resolução de problemas utilizando a linguagem JavaScript."
     },
     {
       "name": "Aprendizado Profundo - ICTS UNESP Sorocaba",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2024",
       "description": "Desenvolvimento de habilidades práticas e teóricas no uso de redes neurais profundas, com foco em frameworks como Keras e TensorFlow. O curso abordou tópicos como classificação, ajuste de hiperparâmetros, pré-processamento de dados, regressão, ensemble learning, redes neurais recorrentes e visão computacional. Exploração de técnicas avançadas como clustering, data augmentation, diversas topologias de redes neurais, meta learning, e aprendizado por reforço. Além disso, o curso incluiu tópicos emergentes como green deep learning, self-supervised learning, adversarial learning, multimodal learning, transfer learning e transformers, capacitando para trabalhar com modelos complexos de aprendizado de máquina e otimização em cenários práticos."
     },
     {
       "name": "Sistemas Computacionais - ICTS UNESP Sorocaba",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2022",
       "description": "Utilização das linguagens HTML, CSS, JavaScript e SQL para construção de sites. Desenvolvimento de interfaces, e criação de bancos de dados com SQL para armazenamento e manipulação de dados."
     },
     {
       "name": "Programação Orientada a Objetos - ICTS UNESP Sorocaba",
-      "calendar": "/assets/imgs/icons/calendario.png",
+      "calendar": "https://raw.githubusercontent.com/Fezao100/Portfolio/refs/heads/main/assets/imgs/icons/calendario.png",
       "conclusion": "Ano de conclusão: 2020",
       "description": "Desenvolvimento de projetos práticos em Java, aplicando POO para resolução problemas. Experiência com criação de classes, interfaces, herança e polimorfismo. Domínio de ferramentas de desenvolvimento e boas práticas de programação."
     }
