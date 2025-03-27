@@ -23,7 +23,7 @@
 .acordeon .trigger::after {
     content: '';
     display: inline-block;
-    background-image: url('/assets/imgs/icons/arrow-top.svg');
+    background-image: url('/Portfolio/assets/imgs/icons/arrow-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 2rem;

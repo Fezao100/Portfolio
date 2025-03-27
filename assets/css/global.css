@@ -22,7 +22,7 @@ body {
 
 .main::before {
     content: '';
-    background-image: url('/assets/imgs/background-top.svg');
+    background-image: url('/Portfolio/assets/imgs/background-top.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 125vw;
@@ -37,7 +37,7 @@ body {
 
 .main::after {
     content: '';
-    background-image: url('/assets/imgs/background-bot.svg');
+    background-image: url('/Portfolio/assets/imgs/background-bot.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
